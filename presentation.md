@@ -301,6 +301,6 @@ class: center, middle
 	![:scale 25%](./static/images/CC-BY.svg)
 ]
 
-.footnote[Acknowledgment to the [TDWG presentation](https://speakerdeck.com/peterdesmet/defining-puppyset-specifications-to-communicate-puppy-quality-characteristics) of Peter Desmet]
+.footnote[Acknowledgment to the [TDWG presentation](https://speakerdeck.com/peterdesmet/defining-dataset-specifications-to-communicate-data-quality-characteristics) of Peter Desmet]
 
 
