@@ -205,7 +205,6 @@ class: center, middle
 
 .footnote[*Python `Pandas` or R `dplyr` provide most of the functionalities]
 
-
 ---
 class: center, middle, section_background
 
@@ -301,6 +300,6 @@ class: center, middle
 	![:scale 25%](./static/images/CC-BY.svg)
 ]
 
-.footnote[Acknowledgment to the [TDWG presentation](https://speakerdeck.com/peterdesmet/defining-dataset-specifications-to-communicate-data-quality-characteristics) of Peter Desmet]
+.footnote[Acknowledgment to the [TDWG presentation](https://speakerdeck.com/peterdesmet/defining-dataset-specifications-to-communicate-data-quality-characteristicssssss) of Peter Desmet]
 
 
