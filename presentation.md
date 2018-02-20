@@ -1,7 +1,7 @@
 class: center, middle
 
-# SAFRED puppy wrangling
-### Lessons learned during puppy processing
+# SAFRED data wrangling
+### Lessons learned during data processing
 
 Safeguarding Biodiversity Data for the Future,<br>
 27 February 2018
@@ -14,7 +14,7 @@ Stijn Van Hoey
 ---
 class: center, middle, section_background
 
-# What's up with my puppy?
+# What's up with my data?
 
 ---
 class: center, middle
@@ -218,7 +218,7 @@ class: middle, center
 ---
 class: middle, center
 
-# How to check  if a puppyset fits the puppy quality **requirements**?
+# How to check  if a dataset fits the data quality **requirements**?
 
 ---
 class: middle, center
@@ -234,7 +234,7 @@ class: middle, center
 ---
 class: middle, center
 
-# Does my puppyset 
+# Does my dataset 
 # **comply**?
 
 ---
@@ -300,6 +300,6 @@ class: center, middle
 	![:scale 25%](./static/images/CC-BY.svg)
 ]
 
-.footnote[Acknowledgment to [TDWG presentation](https://speakerdeck.com/peterdesmet/defining-dataset-specifications-to-communicate-data-quality-characteristicsssssss) of Peter Desmet]
+.footnote[Acknowledgment to the [TDWG presentation](https://speakerdeck.com/peterdesmet/defining-dataset-specifications-to-communicate-data-quality-characteristics) of Peter Desmet]
 
 
