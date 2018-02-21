@@ -110,25 +110,24 @@ class: middle, center, subsection_background
 
 ---
 class: middle, center
+
 ## Python
 
-	![:scale 100%](./static/images/literate_programming_python.png)
-]
 ![:scale 100%](./static/images/literate_programming_python.png)
 
 ---
 class: middle, center
+
+## R
 
 ![:scale 100%](./static/images/literate_programming_R.png)
 
 ---
 class: middle, center
 
-### `Executable documentation`
+## Executable documentation
 
-.middle.left[
-> … in literate programming the emphasis is reversed. Instead of writing code containing documentation, the literate programmer writes `documentation containing code`
-]
+> ... in literate programming the emphasis is reversed. Instead of writing code containing documentation, the literate programmer writes `documentation containing code`
 
 --
 
@@ -183,13 +182,12 @@ class: middle, center
 ---
 class: middle, center
 
-# How to check  if a dataset fits the data quality **requirements**?
+## How to check  if a dataset fits the data quality `requirements`?
 
 ---
 class: middle, center
 
-# We need 
-# **documentation**
+## Let's `document` those
 
 ---
 class: middle, center
@@ -199,14 +197,12 @@ class: middle, center
 ---
 class: middle, center
 
-# Does my dataset 
-# **comply**?
+## Does my dataset `comply`?
 
 ---
 class: middle, center
 
-## We need 
-# human & `machine-readable` specifications
+## We need human and `machine-readable` specifications
 
 ---
 class: middle, center
@@ -216,28 +212,32 @@ class: middle, center
 ---
 class: middle, center
 
-## We call them
-# `whip`\* 
-# specifcations
+## We call them `whip` specifications
 
-.footnote[...be it a feather or a chain whip!]
+... be it a feather or a chain whip!
+
+.footnote[https://github.com/inbo/whip]
 
 ---
 class: middle, center
 
-## Input of `py`**whip**:
+## pywhip
+
+![:scale 100%](./static/images/pywhip_0.png)
+
+.footnote[https://github.com/inbo/pywhip]
+
+---
+class: middle, center
+
+## Input for pywhip
 
 ![:scale 100%](./static/images/pywhip_1.png)
 
 ---
 class: middle, center
 
-![:scale 100%](./static/images/pywhip_0.png)
-
----
-class: middle, center
-
-## Output of `py`**whip**:
+## Output of pywhip
 
 ![:scale 100%](./static/images/pywhip_2.png)
 
