@@ -1,4 +1,5 @@
-class: center, middle
+class: middle, center
+
 
 # SAFRED data wrangling
 ### Lessons learned during data processing
@@ -8,49 +9,40 @@ Safeguarding Biodiversity Data for the Future,<br>
 
 Stijn Van Hoey
 
-<a href="https://twitter.com/svanhoey"><i class="fa fa-twitter" aria-hidden="true"></i> @SVanHoey</a>
-<a href="https://github.com/stijnvanhoey"><i class="fa fa-github" aria-hidden="true"></i> stijnvanhoey</a>
+[<i class="fa fa-twitter"></i> @SVanHoey](https://twitter.com/svanhoey) [<i class="fa fa-github"></i> stijnvanhoey](https://github.com/inbo)
 
 ---
-class: center, middle, section_background
+class: middle, center, section_background
 
 # What's up with my data?
 
 ---
-class: center, middle
+class: middle
 
 > "*... farmland ponds distributed over almost the entire **Belgian territory**.*"
 
-.center[
-	![:scale 95%](./static/images/coordinates_1.png)
-]
+.center[![:scale 95%](./static/images/coordinates_1.png)]
 
 ---
-class: center, middle
+class: middle
 
 > "*... farmland ponds distributed over almost the entire **Belgian territory**.*"
 
-.center[
-	![:scale 95%](./static/images/coordinates_2.png)
-]
+.center[![:scale 95%](./static/images/coordinates_2.png)]
 
 ---
 class: middle
 
 > *the issue of color annotations...*
 
-.center[
-	![:scale 95%](./static/images/color_usage_1.png)
-]
+.center[![:scale 95%](./static/images/color_usage_1.png)]
 
 ---
-class:  middle
+class: middle
 
 > *the issue of color annotations...*
 
-.center[
-	![:scale 95%](./static/images/color_usage_2.png)
-]
+.center[![:scale 95%](./static/images/color_usage_2.png)]
 
 ---
 class: middle
@@ -84,70 +76,59 @@ class: middle
 > *...*
 
 ---
-class: center, middle
+class: middle, center
 
-.center[
-	![:scale 75%](./static/images/keep-calm-and-clean-up-the-mess.png)
-]
-
-
+![:scale 75%](./static/images/keep-calm-and-clean-up-the-mess.png)
 
 ---
-class: center, middle, section_background
+class: middle, center, section_background
 
 # From `any format` to a standard
 
 ---
-class: center, middle
+class: middle, center
 
 ## Initial MANSCAPE workflow
 
-.center[
-	![:scale 85%](./static/images/workflow_1.png)
-]
+![:scale 85%](./static/images/workflow_1.png)
 
 ---
-class: center, middle
+class: middle, center
 
 ## Initial MANSCAPE workflow
 
-.center[
-	![:scale 85%](./static/images/workflow_2.png)
-]
+![:scale 85%](./static/images/workflow_2.png)
 
 ---
-class: center, middle, section_background
+class: middle, center, section_background
 
 # A reproducible workflow
 
 ---
-class: center, middle
+class: middle, center
 
-.center[
-	![:scale 85%](./static/images/workflow_5.png)
-]
+![:scale 85%](./static/images/workflow_5.png)
 
 ---
-class: center, middle, subsection_background
+class: middle, center, subsection_background
 
 #  Literate programming
 
 ---
-class: center, middle
+class: middle, center
+## Python
 
-.center[
 	![:scale 100%](./static/images/literate_programming_python.png)
 ]
+![:scale 100%](./static/images/literate_programming_python.png)
 
 ---
-class: center, middle
+class: middle, center
 
-.center[
-	![:scale 100%](./static/images/literate_programming_R.png)
-]
+![:scale 100%](./static/images/literate_programming_R.png)
 
 ---
-class: middle
+class: middle, center
 
 ### `Executable documentation`
 
@@ -160,53 +141,43 @@ class: middle
 .footnote[Jupyter notebook supports > 40 programming  languages, Rmarkdown rocks for R users!]
 
 ---
-class: center, middle, subsection_background
+class: middle, center, subsection_background
 
 #  Version control
 
 ---
-class: center, middle
+class: middle, center
 
-.center[
-	![:scale 100%](./static/images/gists_revisions.png)
-]
+![:scale 100%](./static/images/gists_revisions.png)
 
 ---
-class: center, middle
+class: middle, center
 
-.center[
-	![:scale 100%](./static/images/version_control_1.png)
-]
+![:scale 100%](./static/images/version_control_1.png)
 
 ---
-class: center, middle
+class: middle, center
 
-.center[
-	![:scale 100%](./static/images/version_control_2.png)
-]
+.center[![:scale 100%](./static/images/version_control_2.png)]
 
 ---
-class: center, middle
+class: middle, center
 
 ## A reproducible workflow
 
-.center[
-	![:scale 85%](./static/images/workflow_3.png)
-]
+![:scale 85%](./static/images/workflow_3.png)
 
 ---
-class: center, middle
+class: middle, center
 
 ## A reproducible workflow
 
-.center[
-	![:scale 85%](./static/images/workflow_4.png)
-]
+![:scale 85%](./static/images/workflow_4.png)
 
 .footnote[*Python `Pandas` or R `dplyr` provide most of the functionalities]
 
 ---
-class: center, middle, section_background
+class: middle, center, section_background
 
 #  We all make mistakes! 
 
@@ -258,7 +229,7 @@ class: middle, center
 .footnote[...be it a feather or a chain whip!]
 
 ---
-class: middle
+class: middle, center
 
 ## Input of `py`**whip**:
 
@@ -270,36 +241,29 @@ class: middle, center
 ![:scale 100%](./static/images/pywhip_0.png)
 
 ---
-class: middle
+class: middle, center
 
 ## Output of `py`**whip**:
 
 ![:scale 100%](./static/images/pywhip_2.png)
 
 ---
-class: center, middle
+class: middle, center
 
 ## A reproducible workflow with a <i class="fa fa-check-square" aria-hidden="true"></i>
 
-.center[
-	![:scale 85%](./static/images/workflow_7.png)
-]
+![:scale 85%](./static/images/workflow_7.png)
 
 ---
-class: center, middle
+class: middle, center
 
 # Thanks!
 
 <br>
 
-<a href="https://twitter.com/svanhoey"><i class="fa fa-twitter" aria-hidden="true"></i> @SVanHoey</a>
-<a href="https://github.com/stijnvanhoey"><i class="fa fa-github" aria-hidden="true"></i> stijnvanhoey</a>
+.footnote[Acknowledgment to the [TDWG presentation](https://speakerdeck.com/peterdesmet/defining-dataset-specifications-to-communicate-data-quality-characteristics) of Peter Desmet]
+[<i class="fa fa-twitter"></i> @SVanHoey](https://twitter.com/svanhoey) [<i class="fa fa-github"></i> stijnvanhoey](https://github.com/inbo)
+
 <br><br><br><br><br><br>
 
-.center[
-	![:scale 25%](./static/images/CC-BY.svg)
-]
-
-.footnote[Acknowledgment to the [TDWG presentation](https://speakerdeck.com/peterdesmet/defining-dataset-specifications-to-communicate-data-quality-characteristics) of Peter Desmet]
-
-
+![:scale 25%](./static/images/CC-BY.svg)
