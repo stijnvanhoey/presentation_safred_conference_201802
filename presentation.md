@@ -1,10 +1,10 @@
 class: middle, center
 
+# Data wrangling
 
-# SAFRED data wrangling
-### Lessons learned during data processing
+### Lessons learned during SAFRED data processing
 
-Safeguarding Biodiversity Data for the Future,<br>
+Safeguarding Biodiversity Data for the Future<br>
 27 February 2018
 
 Stijn Van Hoey
