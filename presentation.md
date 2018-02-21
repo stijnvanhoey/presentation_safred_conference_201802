@@ -146,11 +146,6 @@ class: middle, center
 ---
 class: middle, center
 
-![:scale 100%](./static/images/version_control_1.png)
-
----
-class: middle, center
-
 .center[![:scale 100%](./static/images/version_control_2.png)]
 
 ---
