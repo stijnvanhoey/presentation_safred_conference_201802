@@ -204,6 +204,8 @@ class: middle, center
 
 ## We need human and `machine-readable` specifications
 
+.footnote[See also the [2017 TDWG presentation](https://speakerdeck.com/peterdesmet/defining-dataset-specifications-to-communicate-data-quality-characteristics) by Peter Desmet]
+
 ---
 class: middle, center
 
@@ -255,7 +257,6 @@ class: middle, center
 
 <br>
 
-.footnote[Acknowledgment to the [TDWG presentation](https://speakerdeck.com/peterdesmet/defining-dataset-specifications-to-communicate-data-quality-characteristics) of Peter Desmet]
 [<i class="fa fa-twitter"></i> @SVanHoey](https://twitter.com/svanhoey) [<i class="fa fa-github"></i> stijnvanhoey](https://github.com/inbo)
 
 <br><br><br><br><br><br>
