@@ -246,6 +246,24 @@ class: middle, center
 ![:scale 85%](./static/images/workflow_7.png)
 
 ---
+class: middle, center, section_background
+
+# Take away messages
+
+---
+class: middle
+
+### 1. Document your data requirements
+### 2. Work reproducible
+### 3. Version your steps
+### 4. Read [Wilson et al. (2017)](https://doi.org/10.1371/journal.pcbi.1005510)
+
+---
+class: middle, center
+
+![:scale 100%](./static/images/good_enough_practices_computational_science.png)
+
+---
 class: middle, center
 
 # Thanks!
