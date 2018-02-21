@@ -19,61 +19,55 @@ class: middle, center, section_background
 ---
 class: middle
 
-> "*... farmland ponds distributed over almost the entire **Belgian territory**.*"
+> "... farmland ponds distributed over almost the entire **Belgian territory**."
 
 .center[![:scale 95%](./static/images/coordinates_1.png)]
 
 ---
 class: middle
 
-> "*... farmland ponds distributed over almost the entire **Belgian territory**.*"
+> "... farmland ponds distributed over almost the entire **Belgian territory**."
 
 .center[![:scale 95%](./static/images/coordinates_2.png)]
 
 ---
 class: middle
 
-> *the issue of color annotations...*
+> color annotations ...
 
 .center[![:scale 95%](./static/images/color_usage_1.png)]
 
 ---
 class: middle
 
-> *the issue of color annotations...*
+> color annotations ...
 
 .center[![:scale 95%](./static/images/color_usage_2.png)]
 
 ---
 class: middle
 
-> *values are not in line with the defined units*
+> * measurementUnits are constraints
+> * measurementValues don't follow constraints
 
-```bash
-id	measurementType	measurementValue	measurementUnit
-...
-HnPloEx_2003	URBAN_400	1.193662073	0/1
-WVIepIn_2003	FOREST_100	1.193821228	0/1
-VBHalEx_2003	FOREST_1600	1.206983342	0/1
-VBDieNa_2003	FOREST_200	1.222572569	1/2/3/4
-LiVoeIn_2003	FOREST_400	1.247465892	1/2/3/4
-WVKnoEx_2003	URBAN_200	1.255517642	1/2/3/4
-...
-```
+id | measurementType | measurementValue | measurementUnit
+--- | --- | --- | ---
+HnPloEx_2003 | URBAN_400 | 1.193662073 | 0/1
+WVIepIn_2003 | FOREST_100 | 1.193821228 | 0/1
+VBHalEx_2003 | FOREST_1600 | 1.206983342 | 0/1
+VBDieNa_2003 | FOREST_200 | 1.222572569 | 1/2/3/4
+LiVoeIn_2003 | FOREST_400 | 1.247465892 | 1/2/3/4
+WVKnoEx_2003 | URBAN_200 | 1.255517642 | 1/2/3/4
 
 ---
 class: middle
 
-> *lowercase/uppercase issues with identifiers*<br>
-> 
-> *a value `782?` for conductivity*<br>
-> 
-> *trailing white spaces for scientific names*<br>
-> 
-> *encoding issue with the units*<br>
-> 
-> *remarks column wrongly  included when pivoting*<br>
-> *...*
+> * lowercase/uppercase issues with identifiers
+> * a value `782?` for conductivity
+> * trailing white spaces for scientific names
+> * encoding issue with units
+> * remarks column wrongly included when pivoting
+> * ...
 
 ---
 class: middle, center
