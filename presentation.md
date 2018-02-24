@@ -111,7 +111,7 @@ class: middle, center, subsection_background
 ---
 class: middle, center
 
-## <i class="fa fa-python" style="font-size:48px;"></i> Python
+## Python
 
 ![:scale 100%](./static/images/literate_programming_python.png)
 
